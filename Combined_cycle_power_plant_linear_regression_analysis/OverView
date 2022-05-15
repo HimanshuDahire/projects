@@ -1,0 +1,6 @@
+Over View of the project.
+
+  ->  Combined Cycle PowerPlant dataset was used for the analysis.
+  ->  Exploratory Data Analysis was performed on the dataset features.
+  ->  Algo for the Gradient Decent was written.
+  ->  Results obtained using Gradient Decent and SkLearn's Linear Regression were compared.
